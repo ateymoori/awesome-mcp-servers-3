@@ -1093,6 +1093,21 @@
     }
   },
   {
+    "name": "Oh My Android",
+    "url": "https://github.com/ateymoori/oh-my-android",
+    "description": "Native macOS app with a built-in MCP server that lets AI agents see and drive the Android Emulator and adb devices: screenshots, UI tree in dp, taps, logcat, dark mode, font scale, and locale.",
+    "category": "developer-tools-and-code-intelligence",
+    "language": "Swift",
+    "provider": "Community",
+    "tags": [
+      "android",
+      "emulator",
+      "mobile",
+      "testing"
+    ],
+    "official": false
+  },
+  {
     "name": "Fly.io MCP Server",
     "url": "https://github.com/superfly/flymcp",
     "description": "Manage Fly.io apps, machines, and deployments via MCP.",
