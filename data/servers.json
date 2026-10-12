@@ -1364,6 +1364,24 @@
     }
   },
   {
+    "name": "Agent Media",
+    "url": "https://github.com/agent-media-ai/agent-media",
+    "description": "Hosted MCP server for captioned vertical UGC, narrated b-roll overlays, reusable characters, images and voice from agent prompts.",
+    "category": "communication-and-productivity",
+    "language": "Other",
+    "provider": "Agent Media",
+    "tags": [
+      "video",
+      "ugc",
+      "ai-video",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://api.agent-media.ai/mcp"
+    }
+  },
+  {
     "name": "Taskfolk",
     "url": "https://github.com/taskfolk/mcp",
     "description": "Project management for teams and their AI agents. Agents join as named members.",
@@ -1830,6 +1848,22 @@
     }
   },
   {
+    "name": "Silicon Floor",
+    "url": "https://github.com/Baptoshi/silicon-floor",
+    "description": "Ownership, insider trades, short interest and financial statements as filed for listed AI and semiconductor companies, each figure dated and linked to its SEC or FINRA source.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "TypeScript",
+    "provider": "Silicon Floor",
+    "tags": [
+      "stocks",
+      "sec-filings",
+      "ownership",
+      "semiconductors",
+      "remote"
+    ],
+    "official": true
+  },
+  {
     "name": "Metabase MCP Server",
     "url": "https://www.metabase.com/docs/latest/ai/mcp",
     "description": "Query dashboards and explore data in Metabase BI.",
@@ -2287,6 +2321,24 @@
     }
   },
   {
+    "name": "AgentRender",
+    "url": "https://github.com/corbinvachal48/agentrender-mcp",
+    "description": "Turns a URL into a screenshot, PDF, or structured extract (title, text, links) via a hosted render API. Local `uvx agentrender-mcp` or remote endpoint; free API key, no card.",
+    "category": "browsers-search-and-web-automation",
+    "language": "Python",
+    "provider": "AgentRender",
+    "tags": [
+      "screenshot",
+      "pdf",
+      "web-extraction",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://api.agentrenderapi.com/mcp"
+    }
+  },
+  {
     "name": "FractalAI Agent Passport",
     "url": "https://www.npmjs.com/package/@fractalai/agent-passport-mcp",
     "description": "Verifies ML-DSA-65 (FIPS 204) signed agent receipts offline and exposes pay-per-call x402 tools (USDC on Base) that return post-quantum signed receipts.",
@@ -2576,6 +2628,21 @@
       "auth",
       "webhooks",
       "remote"
+    ],
+    "official": true
+  },
+  {
+    "name": "Kooperativa.io",
+    "url": "https://github.com/kooperativa-team/kooperativa-mcp",
+    "description": "People and company data from Kooperativa.io: enrich and search profiles, hiring signals, job changes, headcount by seniority and webhook monitors.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "TypeScript",
+    "provider": "Kooperativa.io",
+    "tags": [
+      "b2b-data",
+      "enrichment",
+      "people-search",
+      "hiring-signals"
     ],
     "official": true
   },
